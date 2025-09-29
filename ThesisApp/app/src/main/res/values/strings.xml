@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ThesisApp</string>
+    <string name="history_title">History</string>
+    <string name="home_title">Home</string>
+    <string name="home_screen_title">Enter you news content below</string>
+    <string name="home_screen_subtitle">The text must have maximum 500 words</string>
+    <string name="news_field_label">Enter content here</string>
+    <string name="check_news_button">Check News</string>
+    <string name="detection_dialog_title">This news is most likely </string>
+    <string name="detection_dialog_message">Do you wish to add it to your local history?</string>
+    <string name="save_news_button">Save news</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="fake_label">Fake</string>
+    <string name="real_label">Real</string>
+    <string name="delete_news_label">Delete News</string>
+    <string name="delete_dialog_title">Delete News?</string>
+    <string name="delete_dialog_subtitle">Are you sure you want to delete this piece of news?\n</string>
+    <string name="dismiss_dialog_button">Cancel</string>
+    <string name="confirm_dialog_button">Delete</string>
+    <string name="persistence_error">An database error occurred! Please try again</string>
+    <string name="retrieve_list_error">The list could not be fetched</string>
+    <string name="no_history_message">No history found</string>
+    <string name="error_fetch_result">Error on fetching result</string>
+    <string name="copy_button_description">Copy button</string>
+    <string name="database_delete_error_message">Error on deleting news</string>
+    <string name="search_icon_description">Search icon</string>
+    <string name="home_button_description">Home button</string>
+    <string name="history_screen_description">History screen</string>
+    <string name="duplicate_movie_error">Duplicate movie!</string>
+</resources>
