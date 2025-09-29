@@ -1,1 +1,2 @@
 # BachelorThesis
+Did further research on fake news detection for the Romanian language. Tested new language models like DistilBERT and T5 on the task, concluding good results compared to previous research. Applied back translation augmentation to the dataset and reached the conclusion that it does not benefit the training process, leading to overfitting, unlike what was stated in previous research. Built a simple Android app for the possibility of inferring the models.
